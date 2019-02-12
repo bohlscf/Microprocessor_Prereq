@@ -1,4 +1,4 @@
-// This program lights and blinks an LED
+// This program blinks an external LED to SOS
 int ledPin12 = 12;
 int i = 0;
 
